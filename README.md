@@ -4,6 +4,13 @@ A single-page application (SPA) for managing canvas templates, built as a test a
 
 **Live Demo:** [**https://obuhhh.github.io/test-assignment-aiscreen/**](https://obuhhh.github.io/test-assignment-aiscreen/)
 
+### Test Credentials
+
+You can use the following credentials to log in and test the application:
+
+* **Email:** `hello@aiscreen.io`
+* **Password:** `Demo!1234`
+
 ---
 
 ## Features
@@ -43,7 +50,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/obuhhh/test-assignment-aiscreen.git](https://github.com/obuhhh/test-assignment-aiscreen.git)
+    git clone https://github.com/obuhhh/test-assignment-aiscreen.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -62,14 +69,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```
     The application will be available at `http://localhost:5173` (or another port if 5173 is in use).
 
-### Test Credentials
-
-You can use the following credentials to log in and test the application:
-
-* **Email:** `hello@aiscreen.io`
-* **Password:** `Demo!1234`
-
----
+----
 
 ## Available Scripts
 
